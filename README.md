@@ -41,8 +41,8 @@ public int dip2px(int dips) {
 * Change the package name appropriately.
 * `RouletteTextView.java` 파일을 본인의 앱 프로젝트에 적당히 넣고, 패키지명도 적당히 바꾸시거나 하시면 됩니다.
 
-## Docs..?
-* Coming soon
+## API Document / API 문서
+* [Click Here / 여기를 클릭](https://darktornado.github.io/libdocs/docs/RouletteTextView/)
 
 ## License / 라이선스
 * [MIT License](LICENSE)
